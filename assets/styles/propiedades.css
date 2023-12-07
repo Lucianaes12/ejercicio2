@@ -19,7 +19,7 @@ nav {
    color: rgb(255, 255, 255);
 }
 
-.properties_article {
+.properties_article1, .properties_article2, .properties_article3{
     font-weight: bold;
     text-decoration: underline;
 }
